@@ -4,7 +4,7 @@
 
 /**
  * main - Print whether a random  number stored in the variable n is positive
- or negative or zero
+ * or negative or zero
  * Return: 0 (Achieved)
  */
 
