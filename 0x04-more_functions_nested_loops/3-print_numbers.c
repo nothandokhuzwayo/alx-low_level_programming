@@ -2,7 +2,7 @@
 
 /**
  * print_numbers - function that prints the numbers from 0 to 9 using putchar
- * Return: 0 (Achieved)
+ * Return: void
  */
 
 void print_numbers(void)
