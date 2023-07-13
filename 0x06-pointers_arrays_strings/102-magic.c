@@ -1,12 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - entry point
- * magic - program prints a[2] = 98
- *
- * Return: 0
- */
-
 int main(void)
 {
 	int n;
