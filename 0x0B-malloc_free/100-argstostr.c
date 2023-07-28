@@ -32,7 +32,7 @@ char *argstostr(int ac, char **av)
 			str[w] = av[t][s];
 			w++;
 		}
-		if (av[t + 1] != NULL)
+		if (str[w] == '\0')
 		{
 			str[w++] = '\n';
 		}
