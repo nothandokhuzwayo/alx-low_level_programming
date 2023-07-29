@@ -1,6 +1,6 @@
 #include "lists.h"
 
-void message_to_be_printed(void) __attribute__((constructor));
+void main_message(void) __attribute__((constructor));
 /**
  * main_message - function that prints a message
  */
