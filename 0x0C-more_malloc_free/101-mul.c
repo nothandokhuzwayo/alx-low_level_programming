@@ -100,5 +100,6 @@ int main(int argc, char *argv[])
 	if (!a)
 		_putchar('0');
 	_putchar('\n');
-	return (0);
+	free(product);
+		return (0);
 }
